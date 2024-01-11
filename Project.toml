@@ -1,0 +1,10 @@
+name = "NCLColors"
+uuid = "dd7501f7-ffe0-47c7-a463-cd7879e87853"
+authors = ["Dongdong Kong <kongdd@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+[compat]
+julia = "1.9"
