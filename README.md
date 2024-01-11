@@ -14,6 +14,13 @@ using Pkg
 Pkg.add(url="https://github.com/jl-pkgs/NCLColors.jl")
 ```
 
+# Functions
+
+- `ncl_colors`: 270 NCL colors
+
+
 # References
 
 1. <https://github.com/rpkgs/rcolors>
+
+2. Colors.jl
